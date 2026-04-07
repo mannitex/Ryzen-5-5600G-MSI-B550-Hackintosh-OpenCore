@@ -1,7 +1,7 @@
 # Ryzen-5-5600G-MSI-B550-Hackintosh-OpenCore
 OpenCore EFI for AMD Ryzen 5 5600G on MSI B550, configured for macOS Tahoe.
 # OpenCore EFI – Ryzen 5 5600G / MSI B550 (macOS Tahoe)
-
+![Preview](1.png)
 This repository contains my OpenCore EFI for a Hackintosh build based on **AMD Ryzen 5 5600G** and **MSI B550 motherboard**, configured for **macOS Tahoe**.
 
 After 6 days of testing, reading Dortania many times, fixing errors, and learning step by step with only basic knowledge, I finally managed to get the system working.  
