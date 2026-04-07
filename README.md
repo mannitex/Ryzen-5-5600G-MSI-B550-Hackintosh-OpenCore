@@ -46,7 +46,7 @@ Tested with:
 
 ## Bootloader
 
-- **OpenCore**
+- **OpenCore 1,0,7**
 
 ---
 
